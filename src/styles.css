@@ -22,7 +22,7 @@ button:hover {
 }
 
 .input-area {
-  background-color: #C1ffff;
+  background-color: #c1ffff;
   width: 400px;
   height: 30px;
   padding: 8px;
@@ -61,6 +61,6 @@ button:hover {
   padding-bottom: 0px;
 }
 
-.list-innter {
+.list-inner {
   margin-right: 8px;
 }
